@@ -118,7 +118,6 @@ Regions belonging to lower and lower middle income have comparatively lower elec
    6. Higher income region have been in forefront of increasing renewable energy production along with nuclear sources whereas middle and lower middle countries are in gradual process.
     
 
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
 
    
  
